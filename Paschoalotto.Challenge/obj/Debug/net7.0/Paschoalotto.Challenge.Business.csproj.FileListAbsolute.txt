@@ -1,0 +1,17 @@
+C:\Users\marco\Documents\Paschoalotto.Challange\Paschoalotto.Challenge\bin\Debug\net7.0\Paschoalotto.Challenge.Business.deps.json
+C:\Users\marco\Documents\Paschoalotto.Challange\Paschoalotto.Challenge\bin\Debug\net7.0\Paschoalotto.Challenge.Business.dll
+C:\Users\marco\Documents\Paschoalotto.Challange\Paschoalotto.Challenge\bin\Debug\net7.0\Paschoalotto.Challenge.Business.pdb
+C:\Users\marco\Documents\Paschoalotto.Challange\Paschoalotto.Challenge\bin\Debug\net7.0\Paschoalotto.Challenge.Domain.dll
+C:\Users\marco\Documents\Paschoalotto.Challange\Paschoalotto.Challenge\bin\Debug\net7.0\Paschoalotto.Challenge.IBusiness.dll
+C:\Users\marco\Documents\Paschoalotto.Challange\Paschoalotto.Challenge\bin\Debug\net7.0\Paschoalotto.Challenge.Domain.pdb
+C:\Users\marco\Documents\Paschoalotto.Challange\Paschoalotto.Challenge\bin\Debug\net7.0\Paschoalotto.Challenge.IBusiness.pdb
+C:\Users\marco\Documents\Paschoalotto.Challange\Paschoalotto.Challenge\obj\Debug\net7.0\Paschoalotto.Challenge.Business.csproj.AssemblyReference.cache
+C:\Users\marco\Documents\Paschoalotto.Challange\Paschoalotto.Challenge\obj\Debug\net7.0\Paschoalotto.Challenge.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marco\Documents\Paschoalotto.Challange\Paschoalotto.Challenge\obj\Debug\net7.0\Paschoalotto.Challenge.Business.AssemblyInfoInputs.cache
+C:\Users\marco\Documents\Paschoalotto.Challange\Paschoalotto.Challenge\obj\Debug\net7.0\Paschoalotto.Challenge.Business.AssemblyInfo.cs
+C:\Users\marco\Documents\Paschoalotto.Challange\Paschoalotto.Challenge\obj\Debug\net7.0\Paschoalotto.Challenge.Business.csproj.CoreCompileInputs.cache
+C:\Users\marco\Documents\Paschoalotto.Challange\Paschoalotto.Challenge\obj\Debug\net7.0\Paschoalotto.Challenge.Business.csproj.CopyComplete
+C:\Users\marco\Documents\Paschoalotto.Challange\Paschoalotto.Challenge\obj\Debug\net7.0\Paschoalotto.Challenge.Business.dll
+C:\Users\marco\Documents\Paschoalotto.Challange\Paschoalotto.Challenge\obj\Debug\net7.0\refint\Paschoalotto.Challenge.Business.dll
+C:\Users\marco\Documents\Paschoalotto.Challange\Paschoalotto.Challenge\obj\Debug\net7.0\Paschoalotto.Challenge.Business.pdb
+C:\Users\marco\Documents\Paschoalotto.Challange\Paschoalotto.Challenge\obj\Debug\net7.0\ref\Paschoalotto.Challenge.Business.dll

@@ -1,0 +1,18 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Newtonsoft.Json" Version="10.0.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Paschoalotto.Challenge.Domain\Paschoalotto.Challenge.Domain.csproj" />
+    <ProjectReference Include="..\Paschoalotto.Challenge.IBusiness\Paschoalotto.Challenge.IBusiness.csproj" />
+  </ItemGroup>
+
+</Project>

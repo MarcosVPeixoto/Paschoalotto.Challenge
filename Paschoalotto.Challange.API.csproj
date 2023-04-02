@@ -1,0 +1,36 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Paschoalotto.Challenge.Domain\**" />
+    <Compile Remove="Paschoalotto.Challenge.IBusiness\**" />
+    <Compile Remove="Paschoalotto.Challenge\**" />
+    <Content Remove="Paschoalotto.Challenge.Domain\**" />
+    <Content Remove="Paschoalotto.Challenge.IBusiness\**" />
+    <Content Remove="Paschoalotto.Challenge\**" />
+    <EmbeddedResource Remove="Paschoalotto.Challenge.Domain\**" />
+    <EmbeddedResource Remove="Paschoalotto.Challenge.IBusiness\**" />
+    <EmbeddedResource Remove="Paschoalotto.Challenge\**" />
+    <None Remove="Paschoalotto.Challenge.Domain\**" />
+    <None Remove="Paschoalotto.Challenge.IBusiness\**" />
+    <None Remove="Paschoalotto.Challenge\**" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNet.WebApi.Core" Version="5.2.9" />
+    <PackageReference Include="Microsoft.AspNetCore.OpenApi" Version="7.0.3" />
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="6.4.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="Paschoalotto.Challenge.Domain\Paschoalotto.Challenge.Domain.csproj" />
+    <ProjectReference Include="Paschoalotto.Challenge.IBusiness\Paschoalotto.Challenge.IBusiness.csproj" />
+    <ProjectReference Include="Paschoalotto.Challenge\Paschoalotto.Challenge.Business.csproj" />
+  </ItemGroup>
+
+</Project>

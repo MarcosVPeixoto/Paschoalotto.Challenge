@@ -1,0 +1,12 @@
+C:\Users\marco\Documents\Paschoalotto.Challange\Paschoalotto.Challenge.IBusiness\bin\Debug\net7.0\Paschoalotto.Challenge.IBusiness.deps.json
+C:\Users\marco\Documents\Paschoalotto.Challange\Paschoalotto.Challenge.IBusiness\bin\Debug\net7.0\Paschoalotto.Challenge.IBusiness.dll
+C:\Users\marco\Documents\Paschoalotto.Challange\Paschoalotto.Challenge.IBusiness\bin\Debug\net7.0\Paschoalotto.Challenge.IBusiness.pdb
+C:\Users\marco\Documents\Paschoalotto.Challange\Paschoalotto.Challenge.IBusiness\obj\Debug\net7.0\Paschoalotto.Challenge.IBusiness.csproj.AssemblyReference.cache
+C:\Users\marco\Documents\Paschoalotto.Challange\Paschoalotto.Challenge.IBusiness\obj\Debug\net7.0\Paschoalotto.Challenge.IBusiness.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marco\Documents\Paschoalotto.Challange\Paschoalotto.Challenge.IBusiness\obj\Debug\net7.0\Paschoalotto.Challenge.IBusiness.AssemblyInfoInputs.cache
+C:\Users\marco\Documents\Paschoalotto.Challange\Paschoalotto.Challenge.IBusiness\obj\Debug\net7.0\Paschoalotto.Challenge.IBusiness.AssemblyInfo.cs
+C:\Users\marco\Documents\Paschoalotto.Challange\Paschoalotto.Challenge.IBusiness\obj\Debug\net7.0\Paschoalotto.Challenge.IBusiness.csproj.CoreCompileInputs.cache
+C:\Users\marco\Documents\Paschoalotto.Challange\Paschoalotto.Challenge.IBusiness\obj\Debug\net7.0\Paschoalotto.Challenge.IBusiness.dll
+C:\Users\marco\Documents\Paschoalotto.Challange\Paschoalotto.Challenge.IBusiness\obj\Debug\net7.0\refint\Paschoalotto.Challenge.IBusiness.dll
+C:\Users\marco\Documents\Paschoalotto.Challange\Paschoalotto.Challenge.IBusiness\obj\Debug\net7.0\Paschoalotto.Challenge.IBusiness.pdb
+C:\Users\marco\Documents\Paschoalotto.Challange\Paschoalotto.Challenge.IBusiness\obj\Debug\net7.0\ref\Paschoalotto.Challenge.IBusiness.dll

@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Paschoalotto.Challange.API.props" />
+</Project>
